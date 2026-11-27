@@ -1,4 +1,4 @@
-<img width="1080" height="2436" alt="Screenshot_20261127-130456" src="https://github.com/user-attachments/assets/3894e6bf-6bb4-4049-84ca-4f5ea803b101" />
+
 # Responsi Flutter — Aplikasi Cuaca Open-Meteo (`responsi_flutter`)
 
 Aplikasi Flutter prakiraan cuaca berbasis REST API **Open-Meteo** yang dibangun menggunakan bahasa pemrograman **Dart**, standar desain **Material Design 3**, manajemen state **Provider (`ChangeNotifier`)**, penyimpanan lokal **SharedPreferences**, serta pola arsitektur **Model-View-ViewModel (MVVM)**.
