@@ -1,3 +1,4 @@
+<img width="1080" height="2436" alt="Screenshot_20261127-130456" src="https://github.com/user-attachments/assets/3894e6bf-6bb4-4049-84ca-4f5ea803b101" />
 # Responsi Flutter — Aplikasi Cuaca Open-Meteo (`responsi_flutter`)
 
 Aplikasi Flutter prakiraan cuaca berbasis REST API **Open-Meteo** yang dibangun menggunakan bahasa pemrograman **Dart**, standar desain **Material Design 3**, manajemen state **Provider (`ChangeNotifier`)**, penyimpanan lokal **SharedPreferences**, serta pola arsitektur **Model-View-ViewModel (MVVM)**.
@@ -107,11 +108,12 @@ Bagian ini disiapkan untuk menampilkan tangkapan layar aplikasi yang dijalankan 
    ```bash
    flutter run
    ```
-2. Ambil tangkapan layar saat kedua layar aktif (`WeatherHomeScreen` dan `LocationSearchScreen`), simpan ke folder `screenshots/` (misalnya `screenshots/home_screen.png` dan `screenshots/search_screen.png`), lalu buka komentar tag gambar di bawah ini.
+2. Ambil tangkapan layar saat kedua layar aktif 
 
 ### Screen 1: Home / Weather Screen (`WeatherHomeScreen`)
 <img width="1080" height="2436" alt="Screenshot_20261127-125451" src="https://github.com/user-attachments/assets/35e8de56-caa0-4b75-beef-ebc6cdac82de" />
 
+<img width="1080" height="2436" alt="Screenshot_20261127-130456" src="https://github.com/user-attachments/assets/42167fbd-7f47-4147-aaf2-22f63e04c53c" />
 
 
 ### Screen 2: Search / Location Screen (`LocationSearchScreen`)
