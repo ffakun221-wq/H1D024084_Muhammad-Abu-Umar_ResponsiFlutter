@@ -110,11 +110,15 @@ Bagian ini disiapkan untuk menampilkan tangkapan layar aplikasi yang dijalankan 
 2. Ambil tangkapan layar saat kedua layar aktif (`WeatherHomeScreen` dan `LocationSearchScreen`), simpan ke folder `screenshots/` (misalnya `screenshots/home_screen.png` dan `screenshots/search_screen.png`), lalu buka komentar tag gambar di bawah ini.
 
 ### Screen 1: Home / Weather Screen (`WeatherHomeScreen`)
+<img width="1080" height="2436" alt="Screenshot_20261127-125451" src="https://github.com/user-attachments/assets/35e8de56-caa0-4b75-beef-ebc6cdac82de" />
 
 
 
 ### Screen 2: Search / Location Screen (`LocationSearchScreen`)
 
+<img width="1080" height="2436" alt="Screenshot_20261127-125459" src="https://github.com/user-attachments/assets/72d4202e-b588-4d3d-8076-953ca70dca37" />
+
+<img width="1080" height="2436" alt="Screenshot_20261127-125557" src="https://github.com/user-attachments/assets/9c760971-4b39-4474-b945-b1ce6ec15f62" />
 
 
 ---
